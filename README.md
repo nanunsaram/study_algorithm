@@ -1,7 +1,9 @@
 # Study Algorithm
 
 ## What is this?
-I will upload my own answers to well-known public beginner-level algorithm problems. The main cause of this repository is to keep track of my skill development and also to encourage me to work hard and regularly. Everyone could feel free to use my codes, although I could guarantee neitehr accuracy nor efficiency.
+I will upload my own answers to well-known public beginner-level algorithm problems.
+I run this repository to keep track of my skill development and also to encourage myself to work in a regular pattern. 
+Everyone could feel free to use my codes, although I can guarantee neither accuracy nor efficiency.
 
 ## What did I study?
 <ul>
