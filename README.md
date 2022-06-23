@@ -2,7 +2,9 @@
 
 ## What is this?
 I will upload my own answers to well-known public beginner-level algorithm problems.
+
 I run this repository to keep track of my skill development and also to encourage myself to work in a regular pattern. 
+
 Everyone could feel free to use my codes, although I can guarantee neither accuracy nor efficiency.
 
 ## What did I study?
