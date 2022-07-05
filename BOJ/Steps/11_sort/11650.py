@@ -8,7 +8,11 @@ coord = []
 for i in range(n):
     coord.append(list(map(int, sys.stdin.readline().split())))
 
-coord.sort()
+# This works even without the key given by lambda function
+# But it is more precise to set the key
+# sort() and sorted() of Python both have 'key' parameter, which takes a function to be used as the key to sort
+# Here, we used lambda function which takes keys given in a tuple.
+coord.sort(key = lambda x: (x[0], x[1]))
 
 for i in range(n):
     print(*coord[i])
