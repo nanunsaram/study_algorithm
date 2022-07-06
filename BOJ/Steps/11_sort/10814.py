@@ -4,7 +4,7 @@ n = int(input())
 info = []
 
 for i in range(n):
-    info.append(list(sys.stdin.readline().split()) + [i])
+    info.append(list(sys.stdin.readline().split()))
 
 # It is initially sorted by the input order
 # So only need to sort by the age(it must be 'int' type; otherwise, '120' will appear earlier than '15')
